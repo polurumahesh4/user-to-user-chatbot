@@ -48,7 +48,7 @@ bash
 
 Accessing the Application
 
-    Chat Application (Node.js): Open your browser and go to http://localhost:3000.
+    Chat Application (Node.js): Open your browser and go to http://localhost:3005.
     PHP Component: Open your browser and go to http://localhost/projectname/client/index.php.
 
 Usage
